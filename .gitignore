@@ -1,0 +1,8 @@
+vendor/*
+vendor/*
+.idea/*
+.vagrant
+puphpet/config.yaml
+puphpet/config-custom.yaml
+html/*
+public_html/wp/*
